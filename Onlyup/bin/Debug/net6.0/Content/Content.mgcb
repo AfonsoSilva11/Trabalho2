@@ -1,0 +1,11 @@
+/outputDir:bin
+/intermediateDir:obj
+/platform:Windows
+/config:
+/profile:Reach
+/compress:False
+
+/build:player.png
+/build:platform.png
+/build:background.png
+/build:DefaultFont.spritefont
