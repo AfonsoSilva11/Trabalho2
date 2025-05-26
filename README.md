@@ -11,6 +11,23 @@ Framework: MonoGame 3.8
 
 Plataforma alvo: Windows Desktop
 
+Estreutura do Projeto:
+OnlyUp/
+├── Content/
+│ ├── background.png
+│ ├── platform_wood.png
+│ ├── player1.png
+│ ├── player2.png
+│ ├── player3.png
+│ ├── jump.wav
+│ ├── death.wav
+│ ├── gameover.png
+│ └── GameFont.spritefont (não usado via pipeline)
+├── Game1.cs
+├── OnlyUp.csproj
+└── README.md
+
+
 Assets:
 
 Sprites do jogador (player1.png, player2.png, player3.png)
